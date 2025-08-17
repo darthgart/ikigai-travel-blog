@@ -11,7 +11,7 @@ const isActive = href === pathname || href === '/' + (subpath?.[0] || '');
 
 <a 
 	href={href}  
-	class={`inline-block rounded-full px-5 py-1 text-lg transition-colors duration-300 ${
+	class={`inline-block rounded-full px-2 sm:px-5 py-1 text-base transition-colors duration-300 ${
     isActive
       ? 'bg-zinc-500 text-white'
       : 'text-zinc-800 hover:bg-zinc-200'

@@ -2,7 +2,9 @@
 title: 'Finlandia'
 description: 'Descubriendo a Santa Claus en nuesto viaje a Helsinki & Rovaniemi.'
 pubDate: 'Nov 21 2024'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/rovaniemi.jpg'
+country: 'Finlandia'
+continent: 'Europa'
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
